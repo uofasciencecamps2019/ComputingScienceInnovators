@@ -3,7 +3,7 @@
 #### `print` ####
 You will use this command to display messages to the user. `print("Hello World")` 
 
-    name = "Yasas"
+    name = "Josh"
     print("Hello "+ name)
 #### `input` ####
 This command is used to take in user inputs. `input("Please enter your name")`
@@ -21,9 +21,9 @@ To convert between data types, use the following:
 #### Logic ####
 Logical operators and conditional statements are used by the computer to make decisions. 
 
-       if (name=="Yasas"):
+       if (name=="Josh"):
             ....
-        elif(name="Tem"):
+        elif(name="Daniela"):
             ....
         else:
             ....
