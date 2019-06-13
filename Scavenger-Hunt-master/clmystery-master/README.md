@@ -43,6 +43,8 @@ To get started on how to use the command line, open cheatsheet.md or cheatsheet.
 
 Don't use a text editor to view any files except these instructions, the cheatsheet, and hints.
 
+These Files were taken from https://github.com/veltman/clmystery under MIT License and modified for use in this Repository
+
 ### Credits
 
 By Noah Veltman  
