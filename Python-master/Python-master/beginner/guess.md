@@ -1,4 +1,4 @@
-#Mad Libs
+# Mad Libs #
 
 The program randomly picks a number and you try to guess it.ser. 
 ## Sample input ## 
