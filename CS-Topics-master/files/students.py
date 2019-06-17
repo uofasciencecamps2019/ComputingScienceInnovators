@@ -19,6 +19,17 @@ for line in file.readlines():	# Goes over each line in the file
 file.close()	# Closes the file, since we are now done with the file
 				# We still have access to all the lines in the file, since we stored them in <file_contents>
 ===============================================
+
+===============================================
+Template on how to open and write to a file
+===============================================
+file = open(filename, w+)	# Opens the file and stores the file object in <file>, creates new file if it does not exist
+
+file.write(content+'\n')       # Writes to the file and goes to next line when done
+    
+file.close()	# Closes the file, since we are now done with the file
+				
+===============================================
 """
 
 
@@ -49,7 +60,8 @@ def add_letter_grades(students, letters_added):
     # Code here
 
 
-# This will print all of the student data (names, IDs, grades)
+# This will write the student data to a new file (names, IDs, letter grades)
+# Hint: start by figuring out how to print all the data needed
 def display_students(students):
     # Code here
 
