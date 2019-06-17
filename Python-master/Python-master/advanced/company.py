@@ -42,6 +42,7 @@ def test():
     assert Google.EmployeeList[0]==Johhny
     Google.hire(Olivia)
     Google.showEmployees()
+    assert Google.EmployeeList[0]==Johhny
     assert Google.EmployeeList[1]==Olivia
     Google.fire(Johhny)
     Google.showEmployees()
