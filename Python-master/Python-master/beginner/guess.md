@@ -1,6 +1,6 @@
 # Guess the Number #
 
-The program randomly picks a number and you try to guess it.ser. 
+The program randomly picks a number and you try to guess it.
 ## Sample input ## 
     >>Please guess a number: 15
     guess is too big
